@@ -1,0 +1,66 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.venv/
+venv.bak/
+venv_old/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Static Files
+/staticfiles/
+/media/
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Coverage reports
+coverage.xml
+*.cover
+.hypothesis/
+.coverage
+.coverage.*
+nosetests.xml
+test-results/
+*.log
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
